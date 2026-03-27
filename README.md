@@ -1,2 +1,10 @@
-# spj-delivery
-Website layanan delivery express Selatpanjang – kirim barang, pesan makanan, dan titip belanja dengan cepat, mudah, dan terjangkau. Terintegrasi dengan WhatsApp untuk pemesanan instan.
+# 🚚 Selatpanjang Express
+
+Selatpanjang Express adalah platform website delivery lokal yang menyediakan layanan:
+- 📦 Kirim barang
+- 🍔 Pesan makanan
+- 🛒 Titip belanja
+
+Semua pesanan dilakukan dengan cepat melalui integrasi WhatsApp.
+
+let noWA = "6283191008971";
